@@ -1,13 +1,13 @@
 {
-  "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
-  "tag": "test",
-  "affiliates":["wwbt"],
+  "thumbnail": "https://goo.gl/images/arPCuk",
+  "tag": "tag test",
+  "affiliates":["wnow"],
   "propTypes": {
-    "title": "PropTypes.string",
-    "layout": "PropTypes.string"
+    "title": "nadia title test",
+    "layout": "nadia layout test"
   },
   "defaultProps": {
-    "title": "Test uniqueness",
+    "title": "nadia default title",
     "titleColor": "#000",
     "backgroundColor": "white",
     "layout": "hero",
